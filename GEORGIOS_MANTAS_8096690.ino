@@ -7,7 +7,7 @@
  * When an obstacle is detected (< 30cm), the robot stops, moves backward, scans the
  * environment (Right/Left) using a Servo motor, and decides the best path based on
  * available space. It uses a random turn duration to avoid getting stuck in loops.
- * * Student ID: [YOUR ID HERE]
+ * * Student ID: 8096690
  */
 
 #include <Servo.h> 
